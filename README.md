@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
-
-![Ashrith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashrith6904&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrith6904&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashrith6904&theme=tokyonight)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashrith6904&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrith6904&theme=tokyonight" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashrith6904&layout=compact&theme=tokyonight" width="48%" />
+</p>
