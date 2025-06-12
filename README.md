@@ -17,7 +17,7 @@
 
 ### 🏆 Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashrith6904&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashrith6904&theme=onedark&no-frame=true&row=1" />
 </p>
 
 ---
