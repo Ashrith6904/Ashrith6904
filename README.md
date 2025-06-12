@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrith6904&theme=tokyonight" height="200" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashrith6904&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashrith6904&layout=compact&theme=tokyonight" height="200" />
 </p>
