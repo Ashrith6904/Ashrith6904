@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=7BF7D3&background=000000&center=true&vCenter=true&multiline=true&width=720&height=140&lines=Hey+%F0%9F%91%8B,+I'm+Ashrith!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=600&color=7BF7D3&background=000000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hey+%F0%9F%91%8B,+I'm+Ashrith!" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,15 +14,6 @@
 - 📫 Connect with me at **ashrith2004@gmail.com**
 - 📄 [My Resume](https://your-resume-link.com)
 -->
----
-
-### 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,java,python,javascript,react,nodejs,mongodb,git,github,docker,jenkins,aws,vercel,django" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
@@ -44,19 +35,39 @@
 
 ---
 
+---
+
+### 🚀 Tech Stack & Tools
+
+### 🛠️ Languages & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,mongodb,mysql,git,github,docker,jenkins,aws,vercel,django,linux,bash" />
+</p>
+
+
+---
+
+---
+
 ### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashrith-s-354b1b331/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourinstagram">
+  <a href="https://www.instagram.com/ashrith6904/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/yourleetcode">
+  <a href="https://leetcode.com/u/Ashrith6904/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://dev.to/yourdevto">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
+  <a href="https://www.codechef.com/users/ashrith6904">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
+
+---
