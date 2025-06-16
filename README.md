@@ -37,9 +37,8 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
-
-### 🛠️ Languages & Tools:
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,mongodb,mysql,git,github,docker,jenkins,aws,vercel,django,linux,bash" />
 </p>
