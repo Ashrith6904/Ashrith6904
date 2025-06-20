@@ -4,16 +4,15 @@
 </p>
 
 ---
-<!--
-### 👨‍💻 About Me
 
-- 🔧 Exploring **DevOps**, **Cloud Infrastructure**, and **MERN Stack**
-- 🚀 Skilled in Docker, Jenkins, Kubernetes, and CI/CD
-- 📚 Currently learning **Terraform**, **Ansible**, and **Microservices**
-- ✨ Passionate about automation, scalable systems, and efficient pipelines
+### 👨‍💻 About Me
+- 🔧 Exploring **Cybersecurity**, **DevOps** and **Fullstack Development**
+- 💻 Experienced in building secure, end-to-end web applications using **MERN Stack**, **Django**, and **FastAPI**
+- 🧠 Built systems using **Raspberry Pi**, **FastAPI**, **React**, and **MongoDB**
+- 📚 Currently expanding knowledge in **Cloud Security** and **Automation Tools**
+- ✨ Passionate about automation, secure architecture, and scalable solutions
 - 📫 Connect with me at **ashrith2004@gmail.com**
-- 📄 [My Resume](https://your-resume-link.com)
--->
+- 📄 [My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1eoZvwwQkyN5S5VU1rHfj2fc4PQaYHveN/view?usp=sharing))
 
 ### 📊 GitHub Stats
 
