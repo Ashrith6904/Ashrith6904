@@ -12,7 +12,7 @@
 - 📚 Currently expanding knowledge in **Cloud Security** and **Automation Tools**
 - ✨ Passionate about automation, secure architecture, and scalable solutions
 - 📫 Connect with me at **ashrith2004@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1eoZvwwQkyN5S5VU1rHfj2fc4PQaYHveN/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1rCc-9eygrrrRUPoDjs6IezJiPbxkp8_Q/view?usp=sharing)
 
 ### 📊 GitHub Stats
 
