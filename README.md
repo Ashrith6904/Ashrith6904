@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔧 Exploring **Cybersecurity**, **DevOps** and **Fullstack Development**
+- 🔧 Exploring **Cybersecurity**, **DataAnalytics** and **Fullstack Development**
 - 💻 Experienced in building secure, end-to-end web applications using **MERN Stack**, **Django**, and **FastAPI**
 - 🧠 Built systems using **Raspberry Pi**, **FastAPI**, **React**, and **MongoDB**
 - 📚 Currently expanding knowledge in **Cloud Security** and **Automation Tools**
