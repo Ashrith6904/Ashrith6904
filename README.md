@@ -6,13 +6,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔧 Exploring **Cybersecurity**, **DataAnalytics** and **Fullstack Development**
-- 💻 Experienced in building secure, end-to-end web applications using **MERN Stack**, **Django**, and **FastAPI**
-- 🧠 Built systems using **Raspberry Pi**, **FastAPI**, **React**, and **MongoDB**
-- 📚 Currently expanding knowledge in **Cloud Security** and **Automation Tools**
-- ✨ Passionate about automation, secure architecture, and scalable solutions
+- 💻 Full Stack Java Web Developer with a strong foundation in Java and modern web technologies.
+- ☕ Currently working with **Core Java, Advanced Java, JDBC, Servlets, JSP, React.js, MySQL, and MongoDB**.
+- 🚀 Built full-stack applications using **Java**, **MERN**, **Django**, and **FastAPI**.
+- 🔐 Enthusiastic about **Cybersecurity**, REST APIs, and developing secure, scalable web applications.
+- 🌱 Always learning new technologies and improving problem-solving and software development skills.
 - 📫 Connect with me at **ashrith2004@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1rCc-9eygrrrRUPoDjs6IezJiPbxkp8_Q/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1-Xyts6mlzoFOFj0QZO81UDY2hemaK5X8/view?usp=drive_link)
 
 ### 📊 GitHub Stats
 
