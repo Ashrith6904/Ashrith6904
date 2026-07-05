@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=600&color=7BF7D3&background=000000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hey+%F0%9F%91%8B,+I'm+Ashrith!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=7BF7D3&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Ashrith!;Full+Stack+Java+Web+Developer;Always+Learning+Something+New!" />
 </p>
 
 ---
@@ -17,19 +17,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashrith6904&theme=onedark&show_icons=true&hide_border=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashrith6904&theme=onedark&hide_border=true" height="200"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrith6904&layout=compact&theme=onedark&hide_border=true" width="48%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashrith6904&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrith6904&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashrith6904&theme=algolia&no-frame=true&row=1&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ashrith6904&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 ---
@@ -58,9 +59,6 @@
   </a>
   <a href="https://leetcode.com/u/Ashrith6904/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://dev.to/yourdevto">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/ashrith6904">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
