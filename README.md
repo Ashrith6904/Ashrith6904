@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7BF7D3&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashrith+%F0%9F%91%8B;Full+Stack+Java+Developer;Cybersecurity+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7BF7D3&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashrith+%F0%9F%91%8B;Full+Stack+Java+Developer;Always+Building+Something+New" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Ashrith6904&label=Profile+Views&color=7BF7D3&style=for-the-badge" alt="profile views"/>
 
