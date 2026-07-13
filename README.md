@@ -69,11 +69,6 @@ public class Ashrith {
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-olive-five-29.vercel.app/api?username=Ashrith6904&show_icons=true&theme=radical&hide_border=true" height="160"/>
-<img src="https://github-readme-stats-olive-five-29.vercel.app/api/top-langs/?username=Ashrith6904&layout=compact&theme=radical&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrith6904&theme=radical&hide_border=true" height="160"/>
 </div>
 
